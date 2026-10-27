@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolas-donnier-754867438"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Available-from%20December%202026-2EA44F?style=for-the-badge" alt="Available from December 2026"/>
 </p>
 
 ---
